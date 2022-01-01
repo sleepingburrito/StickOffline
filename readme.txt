@@ -53,3 +53,4 @@ Game runs at 60 fps and is 16:9 at 1/2 the resolution of 1080p to maximize scree
 Programing / Design: ARTgames
 Design / Testing: LoneProvo, Turkey
 Sound effects are made with: http://www.drpetter.se/project_sfxr.html
+Game was made back in 2012
